@@ -9,9 +9,9 @@
 -}
 
 
-module Data.CFingerTree (module Data.TSequence, CFingerTree ) where
+module Data.CFingerTree (module Data.Interface.TSequence, CFingerTree ) where
 
-import Data.TSequence
+import Data.Interface.TSequence
 
 
 data CFingerTree r a b where

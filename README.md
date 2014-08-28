@@ -1,3 +1,8 @@
+
+This code was forked with the intention to convert it to a usable library. So far it simply builds with cabal and the directory has been reorganized a little. The only focus so far has been on the FreeMonad material. It's definitely not yet ready for hackage but was usable in some toy code I am working on.
+
+*The original readme appears below*
+
 Code accompanying the paper Reflection without Remorse:Revealing a hidden sequence to speed up monadic reflection
 
 This code is organized as follows: 

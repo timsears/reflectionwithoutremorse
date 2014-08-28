@@ -2,9 +2,9 @@
 module Fixed.Logic where
 
 import Control.Monad
-import Control.Monad.Trans
+import Control.Monad.Trans 
 import Control.Monad.Logic.Class
-import Control.Monad.IO.Class
+--import Control.Monad.IO.Class
 import Data.FastCQueue
 
 type CQueue = FastCQueue
